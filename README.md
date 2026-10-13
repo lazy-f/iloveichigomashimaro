@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center">~ Hi there 👋 ~</h1>
+<h1 align="center">~ sup👋 ~</h1>
     <br>
 
 
